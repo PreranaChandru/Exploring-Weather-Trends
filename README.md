@@ -1,9 +1,9 @@
 # Exploring-Weather-Trends
-Exploring Global Weather Trends and San Francisco Weather Trends.
+Project done for Udacity Data Analyst Nanodegree Program
 
 ### Summary
 
-In this project, I analyzed local and global temperature data and compare the temperature trends of San Francisco to overall global temperature trends.
+* Analyzed local (San Francisco, CA, USA) and global temperature data and compared the temperature trends.
 
 ### Objective of this project is to answer the following questions:
 
