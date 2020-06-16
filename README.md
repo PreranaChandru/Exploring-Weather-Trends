@@ -4,6 +4,9 @@ Project done for Udacity Data Analyst Nanodegree Program
 ### Summary
 
 * Analyzed local (San Francisco, CA, USA) and global temperature data and compared the temperature trends.
+* Practised data extraction from database in SQL
+* Performed Data manipulation in Excel and Exploratory Data Analysis using Python
+* Outlined observations and key considerations when deciding how to visualize the trends
 
 ### Objective of this project is to answer the following questions:
 
