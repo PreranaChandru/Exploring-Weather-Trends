@@ -3,7 +3,7 @@ Exploring Global Weather Trends and San Francisco Weather Trends.
 
 ### Summary
 
-In this project, I analyzed local and global temperature data and compare the temperature trends of Sna Francisco to overall global temperature trends.
+In this project, I analyzed local and global temperature data and compare the temperature trends of San Francisco to overall global temperature trends.
 
 ### Objective of this project is to answer the following questions:
 
